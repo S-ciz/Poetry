@@ -1,4 +1,4 @@
-# Poetry Home 
+# Poetry Page Design
 ![image](https://github.com/S-ciz/Poetry/assets/95995178/a2c08738-4893-4be4-a584-8955bed0e4d4)
 
 # Showcase 
